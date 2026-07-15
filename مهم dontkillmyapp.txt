@@ -1,1 +1,1 @@
-cd C:\Users\YourName\Desktop\platform-tools
+cd C:\Users\yassen\Desktop\platform-tools
