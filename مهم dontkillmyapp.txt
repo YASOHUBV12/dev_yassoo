@@ -1,1 +1,1 @@
-adb shell pm uninstall -k --user 0 com.huawei.powergenie
+adb kill-server && adb start-server && adb devices && adb shell pm uninstall -k --user 0 com.huawei.powergenie
