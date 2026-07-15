@@ -1,1 +1,1 @@
-adb kill-server && adb start-server && adb devices && adb shell pm uninstall -k --user 0 com.huawei.powergenie
+cd C:\Users\desktop-r6meekk\Desktop\platform-tools
