@@ -1,1 +1,1 @@
-cd C:\Users\yassen\Desktop\platform-tools
+adb shell pm disable-user --user 0 com.huawei.powergenie
